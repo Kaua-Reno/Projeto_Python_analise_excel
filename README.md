@@ -25,6 +25,8 @@ Projeto em python para analisar tabelas excel e devolver um SMS caso a condiçã
 
 #### link Twilio: https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa29PUjZNdlZ0U3k0ek11OTZoUXVWcnRFZmNCQXxBQ3Jtc0ttbDJtYVhJZHU1anlfOFdHaTZaNFpVVmppOVhwaVlZU0ZtLU9oSjF3UlczZGRhSzFWN2h3NXk0RV9RbzlXTHJmbzQ0UExyZk5XVG9kREFpT1JDWDRjYXVhOU45bzAzaWdzQVVMZGlnbHVPNmtZVkVCMA&q=https%3A%2F%2Fwww.twilio.com%2Fdocs%2Flibraries%2Fpython&v=GQpQha2Mfpg
 
+#### link do vídeo do projeto: https://www.youtube.com/watch?v=GQpQha2Mfpg
+
 #### #### pd.read_excel('arquivo.xlsx') -> lê arquivos excels
 
 #### .any() -> Lê campo por campo da coluna
